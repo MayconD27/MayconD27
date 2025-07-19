@@ -4,7 +4,7 @@
 
 ## 🚀 Full-Stack Developer  
 
-Atualmente tenho 23 anos e moro em Minas Gerais.  
+Moro em Minas Gerais.  
 Sou formado como Técnico em Informática e concluí a graduação em **Gestão da Tecnologia da Informação** pela **FAPAM (Faculdade de Pará de Minas)**.  
 Atualmente atuo como **Desenvolvedor Júnior**, sempre buscando aprimorar meus conhecimentos e aprender novas tecnologias.
 
@@ -31,9 +31,9 @@ Atualmente atuo como **Desenvolvedor Júnior**, sempre buscando aprimorar meus c
 
 ## 📊 Estatísticas  
 
-![Maycon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maycondouglas&show_icons=true&theme=github_dark&locale=pt-br)
+![Maycon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayconD27&show_icons=true&theme=github_dark&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maycondouglas&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconD27&layout=compact&theme=github_dark)
 
 ---
 
